@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://Admin:secretRcosPassword@cluster0.8rfoh.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
